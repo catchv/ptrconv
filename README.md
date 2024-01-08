@@ -14,6 +14,9 @@ fmt.Println(*s)
 
 i := ptrconv.AutoPtr(1234)
 fmt.Println(*i)
+
+ui := ptrconv.AutoPtr(uint(1234))
+fmt.Println(*ui)
 ```
 
 
