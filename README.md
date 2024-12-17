@@ -1,4 +1,4 @@
-Golang Pointer Converter
+Golang Pointer Converter v1.0.0
 
 ```bash
 go get -u github.com/catchv/ptrconv
